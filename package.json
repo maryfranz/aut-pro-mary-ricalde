@@ -1,0 +1,22 @@
+{
+  "name": "aut-pro-mary-ricalde",
+  "version": "1.0.0",
+  "description": "JStesting repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryfranz/aut-pro-mary-ricalde.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryfranz/aut-pro-mary-ricalde/issues"
+  },
+  "homepage": "https://github.com/maryfranz/aut-pro-mary-ricalde#readme",
+  "dependencies": {
+    "project-name-generator": "2.1.9"
+  }
+}
